@@ -154,3 +154,12 @@
 {"level":"info","message":"📊 Health check: http://localhost:3000/health","service":"mongodb-elasticsearch-integration","timestamp":"2025-06-02 03:14:29"}
 {"level":"info","message":"GET /api/search - ::1","service":"mongodb-elasticsearch-integration","timestamp":"2025-06-02 03:14:34"}
 {"level":"info","message":"GET /api/search/advanced - ::1","service":"mongodb-elasticsearch-integration","timestamp":"2025-06-02 03:14:51"}
+{"level":"info","message":"Successfully connected to MongoDB","service":"mongodb-elasticsearch-integration","timestamp":"2025-06-02 16:30:04"}
+{"level":"info","message":"Connected to MongoDB","service":"mongodb-elasticsearch-integration","timestamp":"2025-06-02 16:30:04"}
+{"level":"info","message":"Elasticsearch cluster health:","service":"mongodb-elasticsearch-integration","timestamp":"2025-06-02 16:30:04"}
+{"level":"info","message":"Connected to Elasticsearch","service":"mongodb-elasticsearch-integration","timestamp":"2025-06-02 16:30:04"}
+{"level":"info","message":"Setting up MongoDB Change Streams...","service":"mongodb-elasticsearch-integration","timestamp":"2025-06-02 16:30:05"}
+{"level":"info","message":"Change streams ready - will implement actual streaming later","service":"mongodb-elasticsearch-integration","timestamp":"2025-06-02 16:30:05"}
+{"level":"info","message":"MongoDB Change Streams initialized","service":"mongodb-elasticsearch-integration","timestamp":"2025-06-02 16:30:05"}
+{"level":"info","message":"🚀 Server running on http://localhost:3000","service":"mongodb-elasticsearch-integration","timestamp":"2025-06-02 16:30:05"}
+{"level":"info","message":"📊 Health check: http://localhost:3000/health","service":"mongodb-elasticsearch-integration","timestamp":"2025-06-02 16:30:05"}
